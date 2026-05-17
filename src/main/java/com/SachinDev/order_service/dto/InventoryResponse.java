@@ -11,5 +11,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class InventoryResponse {
 private String skuCode;
-private boolean isInStock;
+private boolean inStock;
 }
